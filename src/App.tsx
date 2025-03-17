@@ -206,7 +206,7 @@ function App() {
                   Happy {age}th Birthday, my dear sister! 🎂
                 </p>
                 <p className="text-xl text-gray-700 mt-4 floating">
-                  With infinite love, your Suvana❤️
+                  With infinite love, your SubhAnna❤️
                 </p>
               </div>
             </div>
