@@ -203,7 +203,7 @@ function App() {
               </p>
               <div className="mt-12 finale-section">
                 <p className="text-2xl font-semibold text-purple-600 animate-pulse">
-                  Happy {age}th Birthday, my dear sister! 🎂
+                  Happy {age}th Birthday, my dear prishu! 🎂
                 </p>
                 <p className="text-xl text-gray-700 mt-4 floating">
                   With infinite love, your SubhAnna❤️
